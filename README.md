@@ -10,4 +10,4 @@
 
 *kono sora wo daite kagayaku*
 
-*shounen yo shinwa ni nare*
+***shounen yo shinwa ni nare!!!***
