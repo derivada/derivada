@@ -9,3 +9,4 @@ Coding goals for 2020/2021:
 * Get some skills in web development and design
 * Understand the most common workflows and tools used in development
 * Learn how to mod my favourite games and applications (Minecraft modding for now)
+* Learn some more advanced aspects from Git, my knowledge is a bit limited right now
