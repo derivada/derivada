@@ -20,5 +20,5 @@ Coding goals for 2021/2022:
 * Learn about how video/audio/image encoding works in general and how to use them and manipulate them in a program 
 
 Some other goals:
-* Get an English C2 certificate before I finish my deegree
+* Get an English C2 certificate before I finish my degree
 * Get into GSOC or some other program of that kind
