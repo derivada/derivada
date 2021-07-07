@@ -9,7 +9,7 @@ My main motivation to learn more in this field is the pure satisfaction and joy 
 Coding goals for 2021 (striking ones where I have made significant progress):
 
 * Improve my code quality and profficiency
-* ~~Pass all my CS classes with a decent grade ~~
+* ~~Pass all my CS classes with a decent grade~~
 * Read books about topics that I'm very interested and haven't yet been covered at uni (C#/.NET Framework, Unity, ~~JS and WebDev~~, Graphics, Networking)
 * Learn more about database systems (ADO.NET, Entity Framework, Online Databases?? ...)
 * ~~Understand the basic concepts behind web development~~ and create my first web applications
