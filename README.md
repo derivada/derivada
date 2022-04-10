@@ -18,3 +18,5 @@ Coding goals for 2022 (striking ones where I have made significant progress):
 * Learn about how video/audio/image encoding works in general and how to use them and manipulate them in a program 
 
 ^-^
+char* str = (char*) malloc(1024);
+sprintf(str, "どこにいたって、人は繋がっているのよ");
