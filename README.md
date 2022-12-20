@@ -11,7 +11,7 @@ My main motivation to learn more in this field is the pure satisfaction and joy 
 Coding goals for 2022 (striking ones where I have made significant progress):
 
 * ~~Improve my code quality and profficiency~~
-* Pass all my CS classes with a decent grade (1st semester done)
+* ~~Pass all my CS classes with a decent grade~~
 * Read about topics that I'm very interested in (~~Backend stuff~~, more stuff about Operative Systems and Linux, ...)
 * ~~Learn more about database systems (MongoDB, Distributed Databases?? ...)~~
 * Create an actual complete website ~~(need a cool idea first tho)~~
