@@ -4,7 +4,7 @@ _I can easily achieve my goals with just dedication_
 
 21yo student from Spain, Math & Computer Science @USC
 
-Currently studying at Trondheim, @NTNU in an Erasmus scholarship
+Currently studying at Lugano, @USI in an exchange program
 
 My main motivation to learn more in this field is the pure satisfaction and joy that comes from understanding a complex system and being able to develop it further.
 
@@ -13,8 +13,8 @@ Coding goals for 2023 (striking ones where I have made significant progress):
 * Finish the CS classes from my deegree
 * Read about topics that I'm very interested in (Operative Systems, Computer Graphics, Database Systems, ...)
 * Create a full-stack Android application 
-* Learn a lot about software security, also about authentication protocols and services
-* Continue studying at NTNU and try to get into another exchange program for next year
+* ~~Learn a lot about software security, also about authentication protocols and services~~
+* ~~Continue studying at NTNU and try to get into another exchange program for next year~~
 * Get an internship for the summer
 * Have fun and be creative!
 
