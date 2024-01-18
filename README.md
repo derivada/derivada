@@ -8,18 +8,22 @@ Currently studying at Lugano, @USI in an exchange program
 
 My main motivation to learn more in this field is the pure satisfaction and joy that comes from understanding a complex system and being able to develop it further.
 
-Coding goals for 2023 (striking ones where I have made significant progress): 
-* Improve my code quality and profficiency
-* Finish the CS classes from my deegree
-* Read about topics that I'm very interested in (Operative Systems, Computer Graphics, Database Systems, ...)
-* Create a full-stack Android application 
+Goals for 2024:
+
+* Improve in competitive programming, learn new techniques and reach ~1800-2000 elo in Codeforces
+* Create portfolio webpage
+* Get an internship and learn a lot on it
+* Come back to learning pure mathematics at uni (trying to not fail every course)
+
+Goals for 2023 (striking ones where I have made significant progress): 
+* ~~Improve my code quality and profficiency~~
+* ~~Finish the CS classes from my deegree~~
+* Create a full-stack Android application (maybe next year)
 * ~~Learn a lot about software security, also about authentication protocols and services~~
 * ~~Continue studying at NTNU and try to get into another exchange program for next year~~
-* Get an internship for the summer
 * Have fun and be creative!
 
-
-Coding goals for 2022:
+Goals for 2022:
 
 * ~~Improve my code quality and profficiency~~
 * ~~Pass all my CS classes with a decent grade~~
