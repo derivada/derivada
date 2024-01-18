@@ -14,6 +14,7 @@ Goals for 2024:
 * Create portfolio webpage
 * Get an internship and learn a lot on it
 * Come back to learning pure mathematics at uni (trying to not fail every course)
+* Master more Git and collaboration workflows, learn to use Github Actions 
 
 Goals for 2023 (striking ones where I have made significant progress): 
 * ~~Improve my code quality and profficiency~~
