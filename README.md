@@ -12,8 +12,8 @@ Goals for 2024:
 
 * Improve in competitive programming, learn new techniques and reach ~1800-2000 elo in Codeforces
 * Create portfolio webpage
-* Get an internship and learn a lot on it
-* Come back to learning pure mathematics at uni (trying to not fail every course)
+* ~Get an internship and learn a lot on it~
+* ~Come back to learning pure mathematics at uni (trying to not fail every course)~
 * Master more Git and collaboration workflows, learn to use Github Actions 
 
 Goals for 2023 (striking ones where I have made significant progress): 
