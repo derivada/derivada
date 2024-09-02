@@ -20,7 +20,6 @@ Goals for 2023 (striking ones where I have made significant progress):
 * Create a full-stack Android application (maybe next year)
 * ~~Learn a lot about software security, also about authentication protocols and services~~
 * ~~Continue studying at NTNU and try to get into another exchange program for next year~~
-* Have fun and be creative!
 
 Goals for 2022:
 
@@ -30,7 +29,7 @@ Goals for 2022:
 * ~~Learn more about database systems (MongoDB, Distributed Databases?? ...)~~
 * ~~Create an actual complete website (need a cool idea first tho)~~
 * ~~Prepare for my Erasmus year at NTNU~~
-* ~~Learn how to optimize programs to the limit by using vector instructions and assembly~~, maybe even read about stuff like CUDA
+* ~~Learn how to optimize programs to the limit by using vector instructions and assembly~~, ~~maybe even read about stuff like CUDA (done in 2024)~~
 * ~~Learn about how video/audio/image encoding works in general and how to use them and manipulate them in a program~~
 
 ^-^
