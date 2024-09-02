@@ -2,9 +2,7 @@
 
 _I can easily achieve my goals with just dedication_
 
-21yo student from Spain, Math & Computer Science @USC
-
-Currently studying at Lugano, @USI in an exchange program
+22yo student from Spain, Math & Computer Science @USC
 
 My main motivation to learn more in this field is the pure satisfaction and joy that comes from understanding a complex system and being able to develop it further.
 
