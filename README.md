@@ -7,7 +7,7 @@ My main motivation to learn more in this field is the pure satisfaction and joy 
 Goals for 2025:
 
 * Dive deep into parallel and high performance computing, learn MPI and important distributed algorithms (already know CUDA and OpenMP)
-* Read more about formal aspects of programming languages and compilers, how complex typing systems work (e.g. C++ templating engine)
+* Master C++ and read into more about formal aspects of programming languages and compilers
 * Setup web server and web page, current plan is to host it in a Raspberry Pi and upload some posts to it about my research interests :)
 * Teach a course at my faculty (proposed an optative Introduction to Python for data science course for Mathematics students)
 * Get a good result again at Ada Byron contest, keep improving in Competitive Programming
