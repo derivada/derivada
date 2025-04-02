@@ -1,6 +1,6 @@
 ## Pablo Díaz
 
-23yo student from Spain, BsC in Mathematics and BsC in Computer Science @USC
+23yo student from Spain, BsC in Mathematics and BsC in Computer Science at Universidade de Santiago de Compostela.
 
 My main motivation to learn more in this field is the pure satisfaction and joy that comes from understanding a complex system and being able to develop it further.
 
@@ -9,7 +9,7 @@ Goals for 2025:
 * Dive deep into parallel and high performance computing, learn MPI and important distributed algorithms (already know CUDA and OpenMP)
 * Master C++ and read into more about formal aspects of programming languages and compilers
 * Setup web server and web page, current plan is to host it in a Raspberry Pi and upload some posts to it about my research interests :)
-* Teach a course at my faculty (proposed an optative Introduction to Python for data science course for Mathematics students)
+* ~Teach a course at my faculty~ (taught a 16 hour course on Introduction to the Python Language and its role in data analysis for BsC Mathematics students).
 * Get a good result again at Ada Byron contest, keep improving in Competitive Programming
 * Finish bachelor thesis of Mathematics on the Fast Fourier Transform and Informatics on Optimized point cloud searches with linearized octrees using Space Filling Curves
 * Get accepted into a good CS Master's program
