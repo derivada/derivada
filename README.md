@@ -12,7 +12,7 @@ Goals for 2025:
 * ~Teach a course at my faculty~ (taught a 16 hour course on Introduction to the Python Language and its role in data analysis for BsC Mathematics students).
 * Get a good result again at Ada Byron contest, keep improving in Competitive Programming
 * ~Finish bachelor thesis of Mathematics on the Fast Fourier Transform and Informatics on Optimized point cloud searches with linearized octrees using Space Filling Curves~
-* ~Get accepted into a good CS Master's program~
+* ~Get accepted into a good CS Master's program~ __Accepted into TUM M.Sc. Informatics!!!__
 
 Goals for 2024:
 
