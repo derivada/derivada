@@ -10,8 +10,8 @@ Goals for 2025:
 * Master C++ and read into more about formal aspects of programming languages and compilers
 * Setup web server and web page, current plan is to host it in a Raspberry Pi and upload some posts to it about my research interests :)
 * ~Teach a course at my faculty~ (taught a 16 hour course on Introduction to the Python Language and its role in data analysis for BsC Mathematics students).
-* Get a good result again at Ada Byron contest, keep improving in Competitive Programming
-* ~Finish bachelor thesis of Mathematics on the Fast Fourier Transform and Informatics on Optimized point cloud searches with linearized octrees using Space Filling Curves~
+* ~Get a good result again at Ada Byron contest, keep improving in Competitive Programming~
+* ~Finish bachelor thesis of Mathematics on Fast Fourier Transforms and Informatics on Optimized point cloud searches with linearized octrees using Space Filling Curves~
 * ~Get accepted into a good CS Master's program~ __Accepted into TUM M.Sc. Informatics!!!__
 
 Goals for 2024:
