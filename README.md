@@ -6,10 +6,10 @@ Currently at 2nd semester @ TUM MSc Informatics. My work focuses on 3D Computer 
 
 Current areas of interest:
 - Neural rendering (esp. Gaussian Splatting)
-- Feed-forward 3D reconstruction
+- Feed-forward scene reconstruction
 - Shape matching via deep functional maps
 - Spatial AI and VLM training for robotics
-- Spatial data structures
+- Data structures for 3D data
 - HPC systems and GPU programming
 
 
