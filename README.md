@@ -9,7 +9,7 @@ Current areas of interest:
 - Feed-forward scene reconstruction
 - Shape matching via deep functional maps
 - Spatial AI and VLM training for robotics
-- Data structures for 3D data
+- Data structures for 3D geometry
 - HPC systems and GPU programming
 
 
